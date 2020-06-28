@@ -19,7 +19,7 @@
 #heRow {
   position: relative;
   text-align: center;
-  background-image: url("./src/assets/hero.jpg");
+  background-image: url("/src/assets/hero.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   overflow: hidden;
@@ -81,7 +81,7 @@
 }
 
 #momRow {
-  background-image: url("./src/assets/banner-1.jpg");
+  background-image: url("/src/assets/banner-1.jpg");
   position: relative;
   text-align: left;
   background-repeat: no-repeat;
@@ -141,7 +141,7 @@
 }
 
 #kidRow {
-  background-image: url("./src/assets/banner-2.jpg");
+  background-image: url("/src/assets/banner-2.jpg");
   position: relative;
   text-align: left;
   background-repeat: no-repeat;
