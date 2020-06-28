@@ -18,15 +18,6 @@ module.exports = {
       {
         test: /\.html$/,
         loader: "html-loader"
-	  },
-	  {
-        test: /\.(svg|png|jpg)$/,
-        loader: "file-loader",
-        options: {
-          name:'[name].[ext]',
-          outputPath:'assets/',
-          publicPath:'assets/'
-        },
       },
 			{
 				test: /\.(scss)$/,
